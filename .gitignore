@@ -1,0 +1,5 @@
+.DS_store
+nmp-debug.log
+node_modules/
+dev-confessions.sublime-project
+dev-confessions.sublime-workspace
